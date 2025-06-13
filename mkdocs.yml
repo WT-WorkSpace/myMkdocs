@@ -1,0 +1,13 @@
+site_name: hello docs
+
+nav: 
+  - 主页: index.md
+  - 教程:
+    - C: c.md
+    # - Java: Tutorial/Java.md
+    # - Python: Tutorial/Python.md
+  # - 关于我: about.md
+theme:
+  name: material
+
+
